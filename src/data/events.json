@@ -1,0 +1,50 @@
+[
+  {
+    "id": "event-1",
+    "title": "Sample Event 1",
+    "date": "2025-10-24T10:34:16.112Z",
+    "location": "Venue 1",
+    "description": "Description for sample event 1",
+    "capacity": 510
+  },
+  {
+    "id": "event-2",
+    "title": "Sample Event 2",
+    "date": "2025-10-25T10:34:16.112Z",
+    "location": "Venue 2",
+    "description": "Description for sample event 2",
+    "capacity": 520
+  },
+  {
+    "id": "event-3",
+    "title": "Sample Event 3",
+    "date": "2025-10-26T10:34:16.112Z",
+    "location": "Venue 3",
+    "description": "Description for sample event 3",
+    "capacity": 530
+  },
+  {
+    "id": "event-4",
+    "title": "Sample Event 4",
+    "date": "2025-10-27T10:34:16.112Z",
+    "location": "Venue 4",
+    "description": "Description for sample event 4",
+    "capacity": 540
+  },
+  {
+    "id": "event-5",
+    "title": "Sample Event 5",
+    "date": "2025-10-28T10:34:16.112Z",
+    "location": "Venue 5",
+    "description": "Description for sample event 5",
+    "capacity": 550
+  },
+  {
+    "id": "event-6",
+    "title": "Sample Event 6",
+    "date": "2025-10-29T10:34:16.112Z",
+    "location": "Venue 6",
+    "description": "Description for sample event 6",
+    "capacity": 560
+  }
+]
